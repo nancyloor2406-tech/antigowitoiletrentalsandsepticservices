@@ -1,0 +1,49 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. What factors affect the porta potty rental cost in USA?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The price depends on the type of unit, the duration of the rental, and the frequency of service required. A luxury portable toilet rental cost in USA will be higher than a standard unit due to amenities like electricity and water.</p>
+                <h4 class="template4 palooma">2. Do I need a permit for a portable toilet on rent in USA?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If the unit is placed on private property, you generally do not need a permit. However, placing a temporary toilet rental near USA on a public street or sidewalk usually requires municipal approval.</p>
+                <h4 class="template4 palooma">3. Are ADA units available for home events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Does the single port o potty rental in USA come with a sink?</p>
+                <h4 class="template4 palooma">4. How many units do I need for a 200-person event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard units typically come with hand sanitizer dispensers. If you require a sink, you should request a portable restroom with sink in USA or add a standalone handwashing station to your order.</p>
+                <h4 class="template4 palooma">5. How do you keep the portable washroom rentals in USA from smelling?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We use high-quality biocide chemicals in the waste tank that break down waste and control odors. Regular servicing of your mobile toilet rental in USA is the key to maintaining a fresh scent.</p>
+                <h4 class="template4 palooma">6. Can I get a one day porta potty rental in USA?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we cater to short-term needs. We can drop off a party porta potty rental near USA in the morning and pick it up the next day, though delivery fees still apply.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
